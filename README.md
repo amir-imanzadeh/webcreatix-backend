@@ -21,7 +21,7 @@ The backend is designed to centralize functionality such as:
 ```text
 Softwins ─────────────┐
                       │
-Coreactor ────────────┼──→ WebCreatix Backend
+Coreactor ────────────┼─── WebCreatix Backend
                       │
 Future Projects ──────┘
                              │
